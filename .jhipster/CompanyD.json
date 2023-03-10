@@ -1,0 +1,24 @@
+{
+  "applications": "*",
+  "changelogDate": "20230310042218",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "company_d",
+  "fields": [
+    {
+      "fieldName": "regionName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "CompanyD",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}
